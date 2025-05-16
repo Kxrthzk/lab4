@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Preview
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Kxrthzk/lab4/blob/main/Screen_recording_20250516_110518.gif))
+![](https://github.com/Kxrthzk/lab4/blob/main/Screen_recording_20250516_110518.gif)
