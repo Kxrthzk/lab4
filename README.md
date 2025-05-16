@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Preview
-![](https://github.com/Kxrthzk/lab4/blob/main/Screen_recording_20250516_110518.gif)
+<img src="Screen_recording_20250516_110518.gif" width="250" height="250"/>
+
